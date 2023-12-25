@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreya123Sahu
 - 👀 I’m interested in innovative and evolving technologies...
 - 🌱 I’m currently pursuing B.Tech(CSE-IOT&CYBERSECURITY)
-- I’m into WEB DEVELOPMENT.
-- JAVA
+-    I’m into WEB DEVELOPMENT.
+-    JAVA
