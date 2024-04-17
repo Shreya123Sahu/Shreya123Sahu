@@ -1,5 +1,6 @@
+![HiHiThereGIF](https://github.com/Shreya123Sahu/Shreya123Sahu/assets/132187076/57b9c521-1ac2-4942-b35c-d4cb6f247653)
+
 - 👋 Hi, I’m Shreya Sahu  
-![ComputerNerdsGIF](https://github.com/Shreya123Sahu/Shreya123Sahu/assets/132187076/783719f0-6b88-4e91-8b59-35d993da1178)
 - 👩‍💻 I’m an aspiring FullStack Web developer .
 - 👀 I’m interested in innovative and evolving technologies...
 - 🌱 Learning....
