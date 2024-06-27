@@ -1,5 +1,6 @@
 - # 💫 About Me:
-👋 Hi, I’m Shreya Sahu HiHiThereGIF<br>👩‍💻 I’m an aspiring FullStack Web developer.<br>👀 I’m interested in innovative and evolving technologies...<br>🌱 Learning....
+👋 Hi, I’m Shreya Sahu ![HiHiThereGIF](https://github.com/Shreya123Sahu/Shreya123Sahu/assets/132187076/8b340e04-ef2d-4691-aecb-73192961bae7)
+<br>👩‍💻 I’m an aspiring FullStack Web developer.<br>👀 I’m interested in innovative and evolving technologies...<br>🌱 Learning....
 
 
 ## 🌐 Socials:
